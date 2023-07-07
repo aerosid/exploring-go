@@ -16,6 +16,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+misc/mysql/
+trash/
 
 # Go workspace file
 go.work
